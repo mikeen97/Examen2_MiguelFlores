@@ -15,7 +15,7 @@ public class Examen2_MiguelFlores {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        principal jf = new principal();
     }
-    
+
 }
