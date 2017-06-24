@@ -91,7 +91,7 @@ public class rusos {
 
     @Override
     public String toString() {
-        return "rusos{" + "nombre=" + nombre + ", id=" + id + ", edad=" + edad + ", rango=" + rango + ", resistencia=" + resistencia + ", arma=" + arma + '}';
+        return nombre;
     }
 
 }

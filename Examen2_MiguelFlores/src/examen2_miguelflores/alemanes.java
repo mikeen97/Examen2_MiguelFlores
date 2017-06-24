@@ -81,6 +81,6 @@ public class alemanes {
 
     @Override
     public String toString() {
-        return "alemanes{" + "alias=" + alias + ", edad=" + edad + ", casta=" + casta + ", resistencia=" + resistencia + ", arma=" + arma + '}';
+        return alias;
     }
 }

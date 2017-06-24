@@ -91,7 +91,7 @@ public class alumnos {
 
     @Override
     public String toString() {
-        return "alumnos{" + "apodo=" + apodo + ", cuenta=" + cuenta + ", edad=" + edad + ", resistencia=" + resistencia + ", grado=" + grado + ", arma=" + arma + '}';
+        return apodo;
     }
 
 }
